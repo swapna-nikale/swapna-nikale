@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swapna-nikale
-- 👀 I’m interested in Android Malware Analysis
+- 👀 I’m interested in Adversarial Machine Learning, Deep Learning and Malware Analysis and Detection using Artificial Intelligence
 - 🌱 I’m currently learning PhD in Computer Science
 - 💞️ I’m looking to collaborate on Android Malware Analysis and Detection
 - 📫 How to reach me swapna.nikale@gmail.com
